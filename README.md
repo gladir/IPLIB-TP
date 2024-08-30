@@ -10,6 +10,6 @@ Bibliothèque écrit en Pascal (Turbo Pascal ou Free Pascal) pour le traitement 
   </tr>
   <tr>
     <td><b>IPFNC.PAS</b></td>
-    <td>Cette unité contient des fontions pour la manipution d'adresse IP.</td>
+    <td>Cette unité contient des fonctions pour la manipulation d'adresse IP.</td>
   </tr>
 </table>
